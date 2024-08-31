@@ -13,8 +13,6 @@ This is our Final year's project in Management of Operations and Production. Thi
   <u><b>Variables</b></u> - In this folder you will find all the relevant information regarding the variables after manipulation and standardization for each model.<br>
   <u><b>Data</b></u> - This is the data source(s) for the project.<br>
   <u><b>Evaluations</b></u> - This folder contains the evaluation of the models, and any visualization related to it. <br>
-  <u><b>Notes</b></u> - Every model will have our notes. These notes are not part of the writeup, and they will be <i>short</i>. These notes will include the conclusions for the models as well. 
-  (Conclusions for each model will be in the .ipynb and .html files as well)<br>
 
 
 
