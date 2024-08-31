@@ -9,13 +9,15 @@
 
 <p>
   In here, you will find:<br>
-  <b>main folder</b> - In here you will find the pdf for writeup assignment, as well as editable doc file, .ipynb file (concentrate all models into 1 file) and 1 .html file (replicate .ipynb in html       
-  format).<br>
-  <b>Variables</b> - in this folder you will find all the relevant information regarding the variables after manipulation and standardization for each model.<br>
-  <b>Data</b> - This is the data source(s) for the project.<br>
-  <b>Evaluations</b> - This folder contains the evaluation of the models, and any visualization related to it. 
-  <b>Notes</b> - Every model will have our notes. These notes are not part of the writeup, and they will be <u>short</u>. These notes will include the conclusions for the models as well.
+  <u><b>Main folder</b></u> - In here you will find the pdf for writeup assignment, as well as an editable doc file, .ipynb file (which concentrates all models into 1 file) and 1 .html file (replicate 
+  .ipynb in html format).<br>
+  <u><b>Variables</b></u> - In this folder you will find all the relevant information regarding the variables after manipulation and standardization for each model.<br>
+  <u><b>Data</b></u> - This is the data source(s) for the project.<br>
+  <u><b>Evaluations</b></u> - This folder contains the evaluation of the models, and any visualization related to it. <br>
+  <u><b>Notes</b></u> - Every model will have our notes. These notes are not part of the writeup, and they will be <i>short</i>. These notes will include the conclusions for the models as well. 
+  (Conclusions for each model will be in the .ipynb and .html files as well)<br>
 </p>
+
 
 <p>
   Please note that we used various AI models to achieve the best result in writing code, standardizing variables and evaluating results, and based on university code we hereby put a disclaimer. <br>
