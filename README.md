@@ -20,3 +20,8 @@ This is our Final year's project in Management of Operations and Production. Thi
   Please note that we used various AI models to achieve the best result in writing code, standardizing variables and evaluating results, and based on university code we hereby put a disclaimer. <br>
   However, most of the work is authentic and we bring what we learned in class to practice in this final project. 
 
+## Notes
+  We did not see much of a reason to use pdf in most analysis, evaluations and future work. <br>
+  The main reason was, since we have too many pictures and text - we cannot compress these to a 6-page pdf.<br>
+  Another reason might be, looking at the code and the pictures is more prolific in our opinion than writing it down in pdf.
+
