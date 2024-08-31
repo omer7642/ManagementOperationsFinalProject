@@ -11,8 +11,9 @@ This is our Final year's project in Management of Operations and Production. Thi
   <u><b>Main folder</b></u> - In here you will find the pdf for writeup assignment, as well as an editable doc file, .ipynb file (which encorporates all models into 1 file) and 1 .html file (replicate 
   .ipynb in html format).<br>
   <u><b>Variables</b></u> - In this folder you will find all the relevant information regarding the variables after manipulation and standardization for each model.<br>
-  <u><b>Data</b></u> - This is the data source for the project, taken from <a href="https://www.kaggle.com/datasets/jillanisofttech/brain-stroke-dataset">Kaggle</a>.<br>
-  <u><b>Evaluations</b></u> - This folder contains the evaluation of the models, and any visualization related to it. <br>
+  <u><b>Data</b></u> - This is the data source for the project, taken from <a href="https://www.kaggle.com/datasets/jillanisofttech/brain-stroke-dataset">Kaggle</a>. We also included the questions after 
+  cross-referncing them and refining them with the relevant fields.<br>
+  <u><b>Evaluations</b></u> - This folder contains the evaluation of the models, in our case - confusion matrices.<br>
 
 
 
